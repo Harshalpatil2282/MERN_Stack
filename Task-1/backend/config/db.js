@@ -1,4 +1,4 @@
-import mongoose from "mongodb";
+import mongoose from "mongoose";
 
 const conectDB = async() =>{
     try {
@@ -7,6 +7,7 @@ const conectDB = async() =>{
 
     } catch (error) {
         console.error("Databse connection failed", error.message);
+        process.exit(1);
     }
 
 }
