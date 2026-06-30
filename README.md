@@ -14,16 +14,21 @@ A full-stack **Product Management System** built using the **MERN Stack** (Mongo
 Home Page
 
 ----------------------------------------------------------
+<img width="1354" height="608" alt="image" src="https://github.com/user-attachments/assets/c9ef0b4b-4972-4126-9422-c773428c1d29" />
+
 
 📦 Product Management System
 
 ----------------------------------------------------------
+<img width="1357" height="687" alt="image" src="https://github.com/user-attachments/assets/24258534-4e62-4e0b-9cfa-91d58f1bf7f8" />
 
-➕ Add Product Form
 
 🔍 Search Products
 
 ----------------------------------------------------------
+<img width="1359" height="696" alt="image" src="https://github.com/user-attachments/assets/c7dffd06-a1ac-473b-9f46-d69eaece38b3" />
+
+<img width="1355" height="692" alt="image" src="https://github.com/user-attachments/assets/364e4594-638e-40e1-a157-43aa829ca27e" />
 
 📦 Product Cards
 
