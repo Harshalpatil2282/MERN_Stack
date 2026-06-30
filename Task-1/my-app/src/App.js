@@ -1,17 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./components/Navbar";
+import Home from "./pages/Home";
 
 function App() {
-  return (
-    <div className="App">
-      <h1 Harshal Patil/>
-      <li
-      heloo
-      manaste  
-      />
-      
-    </div>
-  );
+    return (
+        <>
+            <Navbar />
+            <Home />
+        </>
+    );
 }
 
 export default App;
