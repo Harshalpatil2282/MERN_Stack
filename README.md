@@ -8,9 +8,8 @@ A full-stack **Product Management System** built using the **MERN Stack** (Mongo
 
 # 📸 Project Preview
 
-> Add screenshots here after deployment.
 
-```
+
 Home Page
 
 ----------------------------------------------------------
@@ -43,7 +42,7 @@ Status
 [ Edit ]     [ Delete ]
 
 ----------------------------------------------------------
-```
+
 
 ---
 
